@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Hanwen Shen</title>
+    <link>https://stevensgeek41.github.io/authors/</link>
+      <atom:link href="https://stevensgeek41.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright>
+    <image>
+      <url>https://stevensgeek41.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://stevensgeek41.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://stevensgeek41.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stevensgeek41.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a JHU CS master student who is interested in applying AI knowledge, especially computer vision, to real-world problems. My undergraduate graduation thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Now I&amp;rsquo;m seeking an opportunity for 2020 summer internship as a computer vision engineer/researcher or software engineer while strengthening my understanding on computer vision in JHU.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
