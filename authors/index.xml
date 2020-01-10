@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Hanwen Shen</title>
-    <link>https://stevensgeek41.github.io/authors/</link>
-      <atom:link href="https://stevensgeek41.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 25 Jun 2019 21:18:42 -0500</lastBuildDate>
     <image>
-      <url>https://stevensgeek41.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://stevensgeek41.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://stevensgeek41.github.io/authors/hanwen-shen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stevensgeek41.github.io/authors/hanwen-shen/</guid>
-      <description>&lt;p&gt;CS master&amp;rsquo;s student at JHU. Previous experience in computer vision and software engineering. Bachelor&amp;rsquo;s thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Seeking 2020 summer software engineering internship.&lt;/p&gt;
+      <link>/authors/hs/</link>
+      <pubDate>Tue, 25 Jun 2019 21:18:42 -0500</pubDate>
+      <guid>/authors/hs/</guid>
+      <description>&lt;p&gt;CS Master&#39;s student at JHU. Previous experience in computer vision and software engineering. Bachelor&#39;s thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Now study ML, robotics, and computer graphics.&lt;/p&gt;
 </description>
     </item>
     

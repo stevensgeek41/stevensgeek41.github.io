@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hanwen Shen</title>
-    <link>https://stevensgeek41.github.io/project/</link>
-      <atom:link href="https://stevensgeek41.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 25 Jun 2019 21:18:42 -0500</lastBuildDate>
     <image>
-      <url>https://stevensgeek41.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://stevensgeek41.github.io/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Contour-based Stereo Matching</title>
-      <link>https://stevensgeek41.github.io/project/contour-based_stereo_matching/</link>
-      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://stevensgeek41.github.io/project/contour-based_stereo_matching/</guid>
-      <description>&lt;p&gt;Detailed description coming soon! Sorry, the author is busy at his study&amp;hellip;&lt;/p&gt;
+      <link>/project/contour_based_stereo_matching/</link>
+      <pubDate>Tue, 25 Jun 2019 21:18:42 -0500</pubDate>
+      <guid>/project/contour_based_stereo_matching/</guid>
+      <description>&lt;p&gt;Detailed description coming soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Human Pose Estimation Based On Deep Learning</title>
-      <link>https://stevensgeek41.github.io/project/human_pose_estimation/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://stevensgeek41.github.io/project/human_pose_estimation/</guid>
-      <description>&lt;p&gt;Detailed description coming soon! Sorry, the author is busy at his study&amp;hellip;&lt;/p&gt;
+      <link>/project/human_pose_estimation/</link>
+      <pubDate>Wed, 02 Jan 2019 21:08:19 -0500</pubDate>
+      <guid>/project/human_pose_estimation/</guid>
+      <description>&lt;p&gt;Detailed description coming soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optical Axis Automatic Calibration System</title>
-      <link>https://stevensgeek41.github.io/project/optical_axis_auto_calib/</link>
-      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://stevensgeek41.github.io/project/optical_axis_auto_calib/</guid>
-      <description>&lt;p&gt;Detailed description coming soon! Sorry, the author is busy at his study&amp;hellip;&lt;/p&gt;
+      <link>/project/optical_axis_auto_calib/</link>
+      <pubDate>Mon, 02 Jul 2018 21:20:36 -0500</pubDate>
+      <guid>/project/optical_axis_auto_calib/</guid>
+      <description>&lt;p&gt;Detailed description coming soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Who should be the NBA MVP?</title>
-      <link>https://stevensgeek41.github.io/project/decide_nba_mvp/</link>
-      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://stevensgeek41.github.io/project/decide_nba_mvp/</guid>
-      <description>&lt;p&gt;Detailed description coming soon! Sorry, the author is busy at his study&amp;hellip;&lt;/p&gt;
+      <link>/project/decide_nba_mvp/</link>
+      <pubDate>Fri, 02 Feb 2018 21:16:24 -0500</pubDate>
+      <guid>/project/decide_nba_mvp/</guid>
+      <description>&lt;p&gt;Detailed description coming soon!&lt;/p&gt;
 </description>
     </item>
     

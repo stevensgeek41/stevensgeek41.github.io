@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanwen Shen</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/hs/</link>
+      <atom:link href="/authors/hs/index.xml" rel="self" type="application/rss+xml" />
     <description>Hanwen Shen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 25 Jun 2019 21:18:42 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Hanwen Shen</title>
-      <link>/</link>
+      <link>/authors/hs/</link>
     </image>
     
     <item>

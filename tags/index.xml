@@ -2,15 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Hanwen Shen</title>
-    <link>https://stevensgeek41.github.io/tags/</link>
-      <atom:link href="https://stevensgeek41.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 25 Jun 2019 21:18:42 -0500</lastBuildDate>
     <image>
-      <url>https://stevensgeek41.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://stevensgeek41.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Tue, 25 Jun 2019 21:18:42 -0500</pubDate>
+      <guid>/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>/tags/software-engineering/</link>
+      <pubDate>Wed, 02 Jan 2019 21:08:19 -0500</pubDate>
+      <guid>/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Fri, 02 Feb 2018 21:16:24 -0500</pubDate>
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
