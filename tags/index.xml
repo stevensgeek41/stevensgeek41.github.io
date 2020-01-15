@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 25 Jun 2019 21:18:42 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Thu, 31 Oct 2019 08:32:20 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Robotics</title>
+      <link>/tags/robotics/</link>
+      <pubDate>Thu, 31 Oct 2019 08:32:20 -0500</pubDate>
+      <guid>/tags/robotics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computer Vision</title>
