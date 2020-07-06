@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Thu, 31 Oct 2019 08:32:20 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 29 May 2020 08:32:20 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/hs/</link>
-      <pubDate>Thu, 31 Oct 2019 08:32:20 -0500</pubDate>
+      <pubDate>Fri, 29 May 2020 08:32:20 -0500</pubDate>
       <guid>/authors/hs/</guid>
       <description>&lt;p&gt;CS Master&#39;s student at JHU. Previous experience in computer vision and software engineering. Bachelor&#39;s thesis proposes a constraint to better describe occlusion in the stereo matching problem using contour information. Now study ML, robotics, and computer graphics.&lt;/p&gt;
 </description>
