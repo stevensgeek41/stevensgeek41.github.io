@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Software Engineering</title>
+      <link>/tags/software-engineering/</link>
+      <pubDate>Fri, 29 May 2020 08:32:20 -0500</pubDate>
+      <guid>/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robotics</title>
       <link>/tags/robotics/</link>
-      <pubDate>Fri, 29 May 2020 08:32:20 -0500</pubDate>
+      <pubDate>Thu, 31 Oct 2019 08:32:20 -0500</pubDate>
       <guid>/tags/robotics/</guid>
       <description></description>
     </item>
@@ -25,14 +33,6 @@
       <link>/tags/computer-vision/</link>
       <pubDate>Tue, 25 Jun 2019 21:18:42 -0500</pubDate>
       <guid>/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Engineering</title>
-      <link>/tags/software-engineering/</link>
-      <pubDate>Tue, 15 Jan 2019 21:08:19 -0500</pubDate>
-      <guid>/tags/software-engineering/</guid>
       <description></description>
     </item>
     
